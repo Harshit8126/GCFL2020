@@ -4,4 +4,4 @@
 
 ## GCFL:- *GLA CODING FOUNDATION LEAGUE*
 
-### In this repository all the codes which i have put all are in ***JAVA Language***
+### In this repository all the codes which i have put all are in ***JAVA  Programming Language***
